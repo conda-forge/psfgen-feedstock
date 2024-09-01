@@ -1,6 +1,6 @@
 {% set name = "psfgen" %}
-{% set version = "1.0.3" %}
-{% set sha256 = "06d4fac3da79abf0090041a6fa44356b2c81af78630af3c71f00e73a374c53dd" %}
+{% set version = "1.0.4" %}
+{% set sha256 = "d8d9a6c0e0d01ddc11814ddb5dbb10a66df93a17336fc6b87a24e9fb4302e23b" %}
 
 package:
     name: {{ name|lower }}
