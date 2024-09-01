@@ -20,7 +20,7 @@ requirements:
         - {{ compiler('c') }}
         - {{ stdlib("c") }}
     host:
-        - python < 3.12 # vmd-python not yet available
+        - python
         - pip
         - setuptools
     run:
